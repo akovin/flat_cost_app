@@ -1,0 +1,7 @@
+Flask==2.1.2
+numpy
+scikit-learn
+pandas
+catboost
+joblib
+werkzeug==2.2.2

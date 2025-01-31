@@ -1,0 +1,259 @@
+
+.main {
+    position: absolute;
+    width: 1920px;
+    height: 1080px;
+    left: 0px;
+    top: 0px;
+
+    background: url(../images/moscow_city.webp);
+}
+
+.header{
+    position: absolute;
+    width: 1394px;
+    height: 78px;
+    left: 108px;
+    top: 64px;
+
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 78px;
+
+    color: #FFFFFF;
+}
+
+.okrug_label {
+    position: absolute;
+    width: 126px;
+    height: 49px;
+    left: 108px;
+    top: 239px;
+
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 49px;
+
+    color: #FFFFFF;
+}
+
+.okrug_selector {
+    position: absolute;
+    width: 250px;
+    height: 59px;
+    left: 100px;
+    top: 317px;
+
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 30px;
+
+    background: #478597;
+    opacity: 0.7;
+    border-radius: 10px;
+}
+
+/* Метро */
+
+.metro_label {
+    position: absolute;
+    width: 135px;
+    height: 49px;
+    left: 451px;
+    top: 239px;
+
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 49px;
+
+    color: #FFFFFF;
+}
+
+.metro_selector{
+    position: absolute;
+    width: 300px;
+    height: 59px;
+    left: 451px;
+    top: 317px;
+
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 30px;
+
+    background: #478597;
+    opacity: 0.7;
+    border-radius: 10px;
+}
+
+.route_time_label{
+    position: absolute;
+    width: 300px;
+    height: 98px;
+    left: 108px;
+    top: 431px;
+
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 49px;
+
+    color: #FFFFFF;
+}
+
+.route_time_input{
+    position: absolute;
+    width: 200px;
+    height: 59px;
+    left: 102px;
+    top: 564px;
+
+    background: #478597;
+    opacity: 0.7;
+    border-radius: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+}
+
+.total_area_label{
+   position: absolute;
+    width: 268px;
+    height: 98px;
+    left: 102px;
+    top: 681px;
+
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 49px;
+
+    color: #FFFFFF;
+}
+
+.total_area_input{
+    position: absolute;
+    width: 200px;
+    height: 59px;
+    left: 100px;
+    top: 814px;
+
+    background: #478597;
+    opacity: 0.7;
+    border-radius: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+}
+
+.distance_from_center_label{
+    position: absolute;
+    width: 268px;
+    height: 98px;
+    left: 451px;
+    top: 431px;
+
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 49px;
+    color: #FFFFFF;
+}
+
+.distance_from_center_input{
+    position: absolute;
+    width: 200px;
+    height: 59px;
+    left: 451px;
+    top: 566px;
+
+    background: #478597;
+    opacity: 0.7;
+    border-radius: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+}
+
+.rooms_label{
+    position: absolute;
+    width: 268px;
+    height: 98px;
+    left: 832px;
+    top: 200px;
+
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 49px;
+
+    color: #FFFFFF;
+
+}
+
+.rooms_input{
+    position: absolute;
+    width: 200px;
+    height: 59px;
+    left: 832px;
+    top: 317px;
+
+    background: #478597;
+    opacity: 0.7;
+    border-radius: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+}
+
+.submit_button{
+    position: absolute;
+    width: 498px;
+    height: 120px;
+    left: 997px;
+    top: 769px;
+
+    background: #478597;
+    opacity: 0.7;
+    border-radius: 10px;
+
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 49px;
+    color: #FFFFFF;
+
+}
+
+.submit_label{
+    position: center;
+    width: 319px;
+    height: 59px;
+    left: 1233px;
+    top: 437px;
+}
+
+.prediction{
+    position: absolute;
+    width: 1297px;
+    height: 59px;
+    left: 318px;
+    top: 661px;
+
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 59px;
+    color: #FFFFFF;
+}
